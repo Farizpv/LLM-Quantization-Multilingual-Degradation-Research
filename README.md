@@ -102,6 +102,8 @@ Then run the notebook cells in order. Full instructions inside the notebook.
 
 |  └── thesis_abstract.md     # Abstract and summary
 
+|  └── thesis_document.pdf    # Original research document
+
 ---
 
 ## References
