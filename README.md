@@ -88,7 +88,7 @@ Then run the notebook cells in order. Full instructions inside the notebook.
 ---
 
 ## Repository Structure
-├── evaluation_pipeline.ipynb  # Full experiment code
+├── LLM_quantization_research.ipynb  # Full experiment code
 
 ├── results/
 
