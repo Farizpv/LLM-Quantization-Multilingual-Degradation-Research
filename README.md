@@ -88,17 +88,19 @@ Then run the notebook cells in order. Full instructions inside the notebook.
 ---
 
 ## Repository Structure
-|├── evaluation_pipeline.ipynb  # Full experiment code
-|
-|├── results/
-|│   └── quantization_results.png  # Key findings chart
-|
-|├── data/
-|│   └── results_summary.csv    # Raw accuracy numbers
-|
-|└── thesis/
-|
-|└── thesis_abstract.md     # Abstract and summary
+├── evaluation_pipeline.ipynb  # Full experiment code
+
+├── results/
+
+│   └── quantization_results.png  # Key findings chart
+
+├── data/
+
+│   └── results_summary.csv    # Raw accuracy numbers
+
+└── thesis/
+
+|  └── thesis_abstract.md     # Abstract and summary
 
 ---
 
