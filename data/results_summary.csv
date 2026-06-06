@@ -1,0 +1,7 @@
+condition,language,accuracy,drop_from_fp16
+FP16,English,72,0
+FP16,Polish,78,0
+Q8,English,60,12
+Q8,Polish,70,8
+Q4,English,59,13
+Q4,Polish,59,19
